@@ -1,11 +1,11 @@
 {
-  "version": "0.250223.202707",
-  "notes": "https://gitee.com/xclhove/rbr-translator/raw/master/changelog/0.250223.202707.md",
-  "pub_date": "2025-02-23T12:27:07Z",
+  "version": "0.250223.204809",
+  "notes": "https://gitee.com/xclhove/rbr-translator/raw/master/changelog/0.250223.204809.md",
+  "pub_date": "2025-02-23T12:48:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHhEYnZMclR0cUVxa0F4UGIxdy9qQUY4TmpMWlh1RGE5OWV0U1Y0dnFTOXMwWUlOMzBiTkYyczJCNHR4dFpZcXFiS1RCa0ROdTB4MHc3dVovb0xROFdMT2ZtUkVUY2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzEzNzM2CWZpbGU6cmJyLXRyYW5zbGF0b3JfMC4yNTAyMjMuMjAyNzA3X3g2NC1zZXR1cC5leGUKNlVjV1FlSDVsSGhyWFRDcTBuR0hFWWZYdEJ5WHpBREVnL2FFYzF3NVY1QnhRUHBZdU4yWGJKbk5OVDh6VnU5aDNFRGVwN3UzVDFEVnpoV0toMUkrRFE9PQo=",
-      "url": "https://gitee.com/xclhove/rbr-translator/releases/download/latest/rbr-translator_0.250223.202707_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHhEYnZMclR0cUtlNW91TzVEMEpBNVZibGNVZi9kRWloZ0Y4eG9NSndiMFZmSy9nUXBzUERGcUsxRWhqYTFWdHUvZTltSVIvOVo5RG1zNm1lRlZCbE1NU0tWN1kycWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzE1MDA0CWZpbGU6cmJyLXRyYW5zbGF0b3JfMC4yNTAyMjMuMjA0ODA5X3g2NC1zZXR1cC5leGUKWDJqZzc5RGxzOVVzcExMYTZoVkNlcjJXbC9OaGFzVC81M2xTVnpkV3BVTThoZmpXQVliWG5Pd2xOK3lBTTUrRHNJTVNTaHVsdFRTQ3RwNm5HSnQyQlE9PQo=",
+      "url": "https://gitee.com/xclhove/rbr-translator/releases/download/latest/rbr-translator_0.250223.204809_x64-setup.exe"
     }
   }
 }

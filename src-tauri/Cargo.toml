@@ -1,6 +1,6 @@
 [package]
 name = "rbr-translator"
-version = "0.250223.202707"
+version = "0.250223.204809"
 description = "RBR Translator"
 authors = [ "xclhove" ]
 edition = "2021"

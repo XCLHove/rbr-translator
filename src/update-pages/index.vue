@@ -63,7 +63,7 @@ const checkUpdate = () => {
               }
             },
             {
-              timeout: 15 * 1000
+              timeout: 60 * 1000 * 3
             }
           )
           .then(() => {
@@ -244,7 +244,7 @@ onTauriWebview(() => {
     </div>
 
     <!--changelog-->
-    <div class="border rounded mb-1 max-h-96 overflow-hidden">
+    <div class="border rounded mb-1 max-h-96 overflow-hidden w-full">
       <el-scrollbar :max-height="96 * 4">
         <VditorPreview :content="changelog"></VditorPreview>
       </el-scrollbar>
