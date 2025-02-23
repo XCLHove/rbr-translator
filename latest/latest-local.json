@@ -1,0 +1,11 @@
+{
+  "version": "0.250223.202707",
+  "notes": "http://localhost:11420/changelog/0.250223.202707.md",
+  "pub_date": "2025-02-23T12:27:07Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHhEYnZMclR0cUVxa0F4UGIxdy9qQUY4TmpMWlh1RGE5OWV0U1Y0dnFTOXMwWUlOMzBiTkYyczJCNHR4dFpZcXFiS1RCa0ROdTB4MHc3dVovb0xROFdMT2ZtUkVUY2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzEzNzM2CWZpbGU6cmJyLXRyYW5zbGF0b3JfMC4yNTAyMjMuMjAyNzA3X3g2NC1zZXR1cC5leGUKNlVjV1FlSDVsSGhyWFRDcTBuR0hFWWZYdEJ5WHpBREVnL2FFYzF3NVY1QnhRUHBZdU4yWGJKbk5OVDh6VnU5aDNFRGVwN3UzVDFEVnpoV0toMUkrRFE9PQo=",
+      "url": "http://localhost:11420/dist-tauri/0.250223.202707/rbr-translator_0.250223.202707_x64-setup.exe"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "$schema": "tauri.config.schema.json",
+  "productName": "rbr-translator",
+  "version": "0.250223.202707",
+  "identifier": "top.xclhove.rbrtranslator",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "devUrl": "http://localhost:11420",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "rbr-translator",
+        "label": "main",
+        "width": 236,
+        "height": 198,
+        "alwaysOnTop": true,
+        "transparent": true,
+        "hiddenTitle": true,
+        "center": true,
+        "decorations": false,
+        "visible": false
+      },
+      {
+        "title": "更新",
+        "label": "update",
+        "width": 650,
+        "height": 614,
+        "center": true,
+        "url": "/update?autoClose=true",
+        "visible": false
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": [
+      "nsis"
+    ],
+    "resources": {
+      "icons": "icons"
+    },
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "createUpdaterArtifacts": true
+  },
+  "plugins": {
+    "updater": {
+      "windows": {
+        "installMode": "basicUi"
+      },
+      "dangerousInsecureTransportProtocol": true,
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEE4RURCNDJFRUYzNkM0Q0IKUldUTHhEYnZMclR0cUF2N2RmWFk5d0FpQUtsOWtvK21nTFpyUVIwMHJ2NWJWYk4wbzBFeUIrUkEK",
+      "endpoints": [
+        "http://localhost:11420/dist-tauri/latest-local.json",
+        "https://gitee.com/xclhove/rbr-translator/releases/download/latest/latest-gitee.json",
+        "https://github.com/xclhove/rbr-translator/releases/latest/download/latest-github.json"
+      ]
+    }
+  }
+}
