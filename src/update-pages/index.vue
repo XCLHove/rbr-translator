@@ -139,6 +139,7 @@ const enableAutoUpdate = localStorageRef(true, 'enableAutoUpdate')
 const currentIgnoreVersion = localStorageRef('', 'ignoreVersion')
 const isIgnoreCurrentVersion = computed(() => {
   if (!latestVersion.value) return true
+  if (currentVersion.value === latestVersion.value) return true
   return currentIgnoreVersion.value === latestVersion.value
 })
 const ignoreCurrentLatestVersion = () => {

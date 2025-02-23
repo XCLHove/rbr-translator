@@ -1,7 +1,7 @@
 {
   "$schema": "tauri.config.schema.json",
   "productName": "rbr-translator",
-  "version": "0.250223.204809",
+  "version": "0.250223.210021",
   "identifier": "top.xclhove.rbrtranslator",
   "build": {
     "beforeDevCommand": "npm run dev",

@@ -1,11 +1,11 @@
 {
-  "version": "0.250223.204809",
-  "notes": "https://github.com/xclhove/rbr-translator/raw/master/changelog/0.250223.204809.md",
-  "pub_date": "2025-02-23T12:48:09Z",
+  "version": "0.250223.210021",
+  "notes": "https://github.com/xclhove/rbr-translator/raw/master/changelog/0.250223.210021.md",
+  "pub_date": "2025-02-23T13:00:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHhEYnZMclR0cUtlNW91TzVEMEpBNVZibGNVZi9kRWloZ0Y4eG9NSndiMFZmSy9nUXBzUERGcUsxRWhqYTFWdHUvZTltSVIvOVo5RG1zNm1lRlZCbE1NU0tWN1kycWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzE1MDA0CWZpbGU6cmJyLXRyYW5zbGF0b3JfMC4yNTAyMjMuMjA0ODA5X3g2NC1zZXR1cC5leGUKWDJqZzc5RGxzOVVzcExMYTZoVkNlcjJXbC9OaGFzVC81M2xTVnpkV3BVTThoZmpXQVliWG5Pd2xOK3lBTTUrRHNJTVNTaHVsdFRTQ3RwNm5HSnQyQlE9PQo=",
-      "url": "https://github.com/xclhove/rbr-translator/releases/latest/download/rbr-translator_0.250223.204809_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHhEYnZMclR0cUVVdnhHQUpQTmpaUmhqWWREUEc1cER0LzRSNVBmcllsZTVrMzlQUEIyV1VTdWNJSTZXdEFhT1F5M3Fad25STTI5ek40QXhtOG5YSllCRHh0ZkdTa1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzE1NzMwCWZpbGU6cmJyLXRyYW5zbGF0b3JfMC4yNTAyMjMuMjEwMDIxX3g2NC1zZXR1cC5leGUKNG5wVDkyY083QzBpa0J6NkdMQVMzaDVReDdjbFNsQXZQTHR3UEtvYjlLSDRBY1JpQXJnSzdGL3duOTJEcGN2YmxhYU1oa3Jaa1FkNmZ5VEE2VkdUQlE9PQo=",
+      "url": "https://github.com/xclhove/rbr-translator/releases/latest/download/rbr-translator_0.250223.210021_x64-setup.exe"
     }
   }
 }
